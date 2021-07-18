@@ -4,7 +4,8 @@
 # fc-cache -fv
 
 # Install Starship if missing
-eval "$(starship init bash)"
+# sh -c "$(curl -fsSL https://starship.rs/install.sh)"
+# eval "$(starship init bash)"
 
 # Aliases & Functions
 gcp () { git add .; git commit -m '$1'; git push -u origin main; }
