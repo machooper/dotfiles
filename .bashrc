@@ -1,3 +1,8 @@
+# Install Nerd Font if Missing
+# wget https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/DroidSansMono.zip
+# unzip DroidSansMono.zip -d ~/.fonts
+# fc-cache -fv
+
 # Install Starship if missing
 eval "$(starship init bash)"
 
