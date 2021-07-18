@@ -1,4 +1,4 @@
-# Install Starship
+# Install Starship if missing
 eval "$(starship init bash)"
 
 # Aliases & Functions
