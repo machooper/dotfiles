@@ -7,6 +7,9 @@
 # sh -c "$(curl -fsSL https://starship.rs/install.sh)"
 # eval "$(starship init bash)"
 
+# Install Code Extensions
+# code --install-extension 
+
 # Aliases & Functions
 gcp () { git add .; git commit -m '$1'; git push -u origin main; }
 gcn () { yarn lint; yarn prettier; git add .; git commit -m "$1"; git push -u origin main; }
