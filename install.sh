@@ -16,6 +16,7 @@ code --install-extension aaron-bond.better-comments
 code --install-extension naumovs.color-highlight
 code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension dbaeumer.vscode-eslint
+code --install-extension github.codespaces
 code --install-extension github.copilot
 code --install-extension eamodio.gitlens
 code --install-extension yzhang.markdown-all-in-one
