@@ -11,6 +11,7 @@ eval "$(starship init bash)"
 # Install Code Extensions
 code --install-extension apollographql.vscode-apollo
 code --install-extension formulahendry.auto-rename-tag
+code --install-extension formulahendry.auto-close-tag
 code --install-extension aaron-bond.better-comments
 code --install-extension naumovs.color-highlight
 code --install-extension dsznajder.es7-react-js-snippets
